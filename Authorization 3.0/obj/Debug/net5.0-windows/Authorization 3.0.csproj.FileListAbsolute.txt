@@ -140,3 +140,5 @@ E:\Praktiks\Pogorelov\Задание 4\Authorization-4.0\Authorization 3.0\obj\D
 E:\Praktiks\Pogorelov\Задание 4\Authorization-4.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.pdb
 E:\Praktiks\Pogorelov\Задание 4\Authorization-4.0\Authorization 3.0\obj\Debug\net5.0-windows\Authorization 3.0.genruntimeconfig.cache
 E:\Praktiks\Pogorelov\Задание 4\Authorization-4.0\Authorization 3.0\obj\Debug\net5.0-windows\ref\Authorization 3.0.dll
+E:\Praktiks\Pogorelov\Задание 4\Authorization-4.0\Authorization 3.0\obj\Debug\net5.0-windows\View\Window\UserListWindow.g.cs
+E:\Praktiks\Pogorelov\Задание 4\Authorization-4.0\Authorization 3.0\obj\Debug\net5.0-windows\View\Window\UserListWindow.baml

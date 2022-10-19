@@ -36,5 +36,8 @@
     <Page Update="View\Window\AuthorizationWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="View\Window\UserListWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>
